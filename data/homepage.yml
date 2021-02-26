@@ -135,9 +135,13 @@ reviews:
 devices:
   enable : true
   title : "Read it on your favorite device!"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quod, nobis repudiandae! In
-          commodi accusamus molestiae, sunt, tempora fugiat doloribus sint quisquam illo numquam corporis
-          tenetur necessitatibus expedita eius, sed."
+  content : "USA. 1840s Against this backdrop, the fascinating story of two families unfolds: 
+  the Mans from the south and the Khazards from the north. Love, hate, jealousy, bigotry, patriotism, family 
+  dramas and personal victories ... Orry Maine from South Carolina and George Hazard from Pennsylvania became friends while 
+  studying at West Point. But can the friendship of people from such different parts of the country, the spirit of camaraderie
+  born of common adversity, overcome those crazy passions that are already ready to unleash the Civil War? Like Margaret Mitchell's 
+  classic Gone With the Wind, Jakes's saga of the war between North and South was a huge success and is still on the world's bestseller list. 
+  For the first time in Russian."
   image : "images/about/ipad.jpg"
   feature:
     # feature item loop
