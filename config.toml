@@ -92,7 +92,7 @@ expire_days = 2
   
 ############################# Footer ########################
 [params.footer]
-content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+content = "Called a masterpiece by The New York Times, the acclaimed trilogy from Tove Ditlevsen, a pioneer in the field of genre-bending confessional writing"
 
 
 ############################# post share ###################
