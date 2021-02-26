@@ -69,7 +69,6 @@ quote:
 chapters:
   enable : true
   title : "Full Chapter Overview"
-  subtitle : "Libero atque veniam molestiae ipsa aliquid quam facilis dolore."
   chapter:
     # chapter preview loop
     - title : "Chapter 1"
