@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://newsshop.vercel.app/"
 languageCode = "en-us"
-title = "The Man in the <br>Glass House"
+title = "The Man in the Glass House"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6

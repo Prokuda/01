@@ -2,7 +2,7 @@
 banner:
   enable : true
   writter : "George Stewart"
-  title : "The Man in the <br>Glass House"
+  title : "The Man in the Glass House"
   image : "images/about/book.png"
   content : "Support Local Bookstores. Shop Online with Bookshop."
   price : "14.99"
